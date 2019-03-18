@@ -34,30 +34,31 @@ Project:
 
 Group Member Names:
 
-Goals and Expectations for the Project (What does each group member hope to get out of this project? What do we want to achieve as a team? How will we know that we're successful?):
+Goals and Expectations for the Project (What does each group member hope to get out of this project? What do we want to achieve as a team? How will we know that we're successful?): To have a functioning basic version of the project and to gain better understanding of the DOM and Javascript.
 	
-Team strengths & collaboration styles (consider discussing your Pairin qualities here):
+Team strengths & collaboration styles (consider discussing your Pairin qualities here): Evan: get something out and go back and edit to keep stress under control. Brandy: likes deadlines to help keep herself accountable.
 
-How we can use our strengths to overcome obstacles:
+How we can use our strengths to overcome obstacles: Brandy asks a lot of questions until she understands, can be annoying if another person gets it. Evan is understanding.
 
 Schedule Expectations (When are we available to work together and individually? What constraints do we have?):
+Tuesday/Wednesday until 7 pm; Build UI out Tuesday afternoon/evening. Mornings not good for Brandy. Otherwise pretty open.
 
-Communication Expectations (How and often will we communicate? How do we keep lines of communication open? How will we make decisions as a team?):
+Communication Expectations (How and often will we communicate? How do we keep lines of communication open? How will we make decisions as a team?): In person first half/ Slack (ping pong: screen share and video chat).
 
-Abilities & Growth Expectations (Technical strengths and areas for desired improvement):
+Abilities & Growth Expectations (Technical strengths and areas for desired improvement): Both expect to learn how to be proficient in GitHub regarding paired and group projects.
 
-Workload Expectations (What features do we each want to work on?):
+Workload Expectations (What features do we each want to work on?): We are both full in.
+Tuesday morning: left side html Brandy, right side Evan.
+Mini sprints between assigned sprints
 
-Workflow Expectations (Git workflow/Tools/Code Review/Reviewing Pull Requests/Debugging and Problem-solving Techniques): 
+Workflow Expectations (Git workflow/Tools/Code Review/Reviewing Pull Requests/Debugging and Problem-solving Techniques): We are learning more tomorrow, but otherwise we are comfortable with the basics.
 
 Expectations for giving and receiving feedback:
+Both pretty mature about receiving constructive critisism.
 
 Project management tools we will use:
+Slack, GitHub
 
 Day 1 Agenda: 
 
 Additional Notes:
-
-
-
-
